@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Gogoanime3.link | Official Anime Streaming Backlink</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Official backlink and indexing page for gogoanime3.link. Discover top anime streaming, updates, and more.">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://gogoanime3.link/">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Gogoanime3.link | Official Anime Streaming Backlink">
+  <meta property="og:description" content="Official backlink and indexing page for gogoanime3.link. Discover top anime streaming, updates, and more.">
+  <meta property="og:url" content="https://gogoanime3.link/">
+  <meta property="og:image" content="https://gogoanime3.link/logo.png">
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Gogoanime3.link | Official Anime Streaming Backlink">
+  <meta name="twitter:description" content="Official backlink and indexing page for gogoanime3.link. Discover top anime streaming, updates, and more.">
+  <meta name="twitter:image" content="https://gogoanime3.link/logo.png">
+
+  <!-- Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Gogoanime3.link",
+    "url": "https://gogoanime3.link/",
+    "description": "Official backlink and indexing page for gogoanime3.link. Discover top anime streaming, updates, and more."
+  }
+  </script>
+
+  <style>
+    body {
+      font-family: 'Segoe UI', Arial, sans-serif;
+      background: #f8f9fa;
+      color: #222;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 600px;
+      margin: 60px auto;
+      background: #fff;
+      border-radius: 12px;
+      box-shadow: 0 4px 24px rgba(0,0,0,0.08);
+      padding: 32px;
+      text-align: center;
+    }
+    h1 {
+      color: #0078d7;
+      margin-bottom: 16px;
+    }
+    p {
+      font-size: 1.1em;
+      margin-bottom: 24px;
+    }
+    a {
+      color: #0078d7;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .logo {
+      width: 120px;
+      margin-bottom: 24px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img src="https://gogoanime3.link/logo.png" alt="Gogoanime3.link Logo" class="logo" loading="lazy">
+    <h1>Gogoanime3.link</h1>
+    <p>Welcome to the official backlink and indexing page for <a href="https://gogoanime3.link/">gogoanime3.link</a>.</p>
+    <p>Discover top anime streaming, latest updates, and more. Click below to visit:</p>
+    <a href="https://gogoanime3.link/" target="_blank" rel="noopener">Visit Gogoanime3.link</a>
+  </div>
+</body>
+</html>
